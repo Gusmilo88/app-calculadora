@@ -1,0 +1,15 @@
+a. ¿Qué hubiese sucedido si, en vez de generar un archivo por cada operación
+matemática, hubiésemos programado todo en un mismo archivo?
+
+Hubiese funcionado igual. 
+
+
+
+b. ¿Por qué el mejor camino es generar distintos archivos y luego requerirlos en uno solo?
+
+Los módulos sirven para tener un código más ordenado, más fácil de revisar y más fácil de corregir. 
+
+
+c. ¿Será esta metodología de trabajo una constante de aquí en adelante?
+
+Si, deberíamos utilizarlo de acá en adelante.
